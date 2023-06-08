@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ronny-oliveira
 - 👀 I’m interested in learn about blockchain development
 - 🌱 I’m currently learning cyber security
-- 💞️ I’m looking to collaborate on projects in the blockchain
+- 💞️ I’m looking to collaborate on projects in the blockchain and Learn more about Cyber
 - 📫 How to reach me usaronny@gmail.com
 
 <!---
